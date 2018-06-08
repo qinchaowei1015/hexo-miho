@@ -139,3 +139,5 @@ access_counter:
 
 # Copyright Information | 版权信息
 copyright: 2018 MinHow
+
+theme: jekyll-theme-slate
